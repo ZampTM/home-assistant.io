@@ -113,6 +113,23 @@ sources:
   'HOME MEDIA GALLERY(Internet Radio)': '26'
 ```
 
+#### VSX-922
+
+```yaml
+sources:
+  'CD': '01'
+  'TUNER': '02'
+  'BD': '25'
+  'DVD': '04'
+  'SAT/CBL': '06'
+  'DVR/BDR': '15'
+  'HDMI4': '22'
+  'HDMI5': '23'
+  'HOME MEDIA GALLERY(Internet Radio)': '26'
+  'iPod/USB': '17'
+  'TV': '05'
+```
+
 #### VSX-822-K
 
 ```yaml
